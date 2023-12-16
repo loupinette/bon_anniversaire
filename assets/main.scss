@@ -1,0 +1,37 @@
+---
+---
+
+@charset "utf-8";
+@import "minima";
+
+.lou {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  max-width: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+// .home {
+//   background-color: #fce57f;
+//   padding: 0;
+//   margin: 0;
+//   text-align: center;
+//  width: 100%;
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+//   align-items: center;
+// }
+
+.happy-birthday {
+  font-size: 6em;
+  font-weight: bold;
+  color: rgb(4, 1, 146);
+
+}
+
