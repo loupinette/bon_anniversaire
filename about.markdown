@@ -14,4 +14,4 @@ Elue meilleure créatrice de site pour la 2éme année consécutive
 
 
 
-![desballonscolorésYOUHOU](./assets/balloons-1869790_1280.jpg)
+![desballonscolorésYOUHOU](assets/balloons-1869790_1280.jpg)
