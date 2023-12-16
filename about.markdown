@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-site_url: https://loupinette.github.io/bon_anniversaire
+site_url: https://loupinette.github.io/bon_anniversaire/
 permalink: /about/
 ---
 
