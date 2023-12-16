@@ -5,7 +5,7 @@ site_url: https://loupinette.github.io/
 permalink: /about/
 ---
 
-SALUT MAXENCE ! JOYEUX ANNIVERSAIRE ! C'était juste pour te souhaiter une super fête avec pleins de supers cadeaux.
+SALUT MAXENCE ! JOYEUX ANNIVERSAIRE ! C'était juste pour te souhaiter une super fête avec plein de supers cadeaux.
 
 Ton amie fidèle et dévouée, Lou
 
